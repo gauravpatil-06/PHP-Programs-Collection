@@ -6,23 +6,15 @@
 
 🔧 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 
-• 🖥 𝗖𝗼𝗿𝗲 𝗣𝗛𝗣 – Variables, operators, arrays, loops, and functions
-
-• 📋 𝗙𝗼𝗿𝗺 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – GET/POST requests, validation, and sanitization
-
-• 🔑 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 – Login, registration, password encryption, and sessions
-
-• 🍪 𝗖𝗼𝗼𝗸𝗶𝗲𝘀 & 𝗦𝗲𝘀𝘀𝗶𝗼𝗻𝘀 – State management across web pages
-
-• 💾 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝘃𝗶𝘁𝘆 (𝗠𝘆𝗦𝗤𝗟) – CRUD operations using PHP & phpMyAdmin
-
-• 📧 𝗣𝗛𝗣 𝗠𝗮𝗶𝗹𝗲𝗿 – Sending automated emails (notifications, results)
-
-• 📂 𝗙𝗶𝗹𝗲 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – Uploading, reading, and generating PDF reports (TCPDF)
-
-• 🛡 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 – SQL injection prevention, input validation, session security
-
-• 📝 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 – Online Examination System – Role-based access (Admin/Student), quizzes, timer, auto result evaluation, and ranking
+• 🖥 𝗖𝗼𝗿𝗲 𝗣𝗛𝗣 – Variables, operators, arrays, loops, and functions <br>
+• 📋 𝗙𝗼𝗿𝗺 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – GET/POST requests, validation, and sanitization <br>
+• 🔑 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 – Login, registration, password encryption, and sessions <br>
+• 🍪 𝗖𝗼𝗼𝗸𝗶𝗲𝘀 & 𝗦𝗲𝘀𝘀𝗶𝗼𝗻𝘀 – State management across web pages <br>
+• 💾 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝘃𝗶𝘁𝘆 (𝗠𝘆𝗦𝗤𝗟) – CRUD operations using PHP & phpMyAdmin <br>
+• 📧 𝗣𝗛𝗣 𝗠𝗮𝗶𝗹𝗲𝗿 – Sending automated emails (notifications, results) <br>
+• 📂 𝗙𝗶𝗹𝗲 𝗛𝗮𝗻𝗱𝗹𝗶𝗻𝗴 – Uploading, reading, and generating PDF reports (TCPDF) <br>
+• 🛡 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 – SQL injection prevention, input validation, session security <br>
+• 📝 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 – Online Examination System – Role-based access (Admin/Student), quizzes, timer, auto result evaluation, and ranking <br>
 
 🎯 𝗜𝗱𝗲𝗮𝗹 𝗙𝗼𝗿:
 
